@@ -98,8 +98,11 @@ c)
 
 <img width="644" alt="image" src="https://user-images.githubusercontent.com/104999420/186804374-3ee69bba-7def-47dc-a249-4fc4408a1080.png">
 
+  5. Video:
 
-## 5. CONCLUSIONES:
+https://youtu.be/h79S1ng9Go0
+
+## 6. CONCLUSIONES:
 
 •	Después de haber realizado el laboratorio, se llego a la conclusio nde que los calculos realizados a mano son diferentes a los realizados con la calculadora y por lo tanto se tiene que hacer una tabla donde marquen estas diferencias.
 
@@ -107,12 +110,12 @@ c)
 
 •	La resolucion de ejercicios aplicando la suma, resta , multiplicacion y division lleva de la mano con lso diragramas fasoriales ya que al ser este un problema y queremos encontrar en forma rectangular debemos tener en cuenta las operaciones basicas y con este las formulas que acompañan a estos calculos.
 
-## 6. RECOMENDACIONES:
+## 7. RECOMENDACIONES:
 
 • Al momento de realizar los cálculos en la caluladora tener en cuenta que la calculadora este en sus estado normal no en radianes ya que cambia el valor de los calculos previamente realizados a mano y ocasionara confusiones a la hora de lso resultados. 
 
 • En los cálculos tener muy en cuenta la formula respectiva para determinar la incognita solicitada ya que se desean los cálculos aplicando ese método tomar en cuenta la interrogante que nos pide encontrar y realizar cálculos preciosos, los componentes de experimento tener en cuenta y revisarlos antes de ponerlos en usa controlar el voltaje de entrada y realizar el trabajo con las indicaciones correspondientes.
 
-## 7. BIBLIOGRAFÍA:
+## 8. BIBLIOGRAFÍA:
 
 -Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
