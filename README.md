@@ -23,11 +23,11 @@ FECHA
  
 ## 2.	OBJETIVO:
 
-###2.1	OBJETIVO GENERAL: 
+### 2.1	OBJETIVO GENERAL: 
 
 Analizar y desarrollar el informe de transformaiónn de números complejos de rectangulares a polares y de polares a rectangulares, para la comprensión de los fundamentos en la electrónica mediante el uso de herramientas de investigación y realización de ejercicios.
 
-###2.2	OBJETIVOS ESPECIFICOS:
+### 2.2	OBJETIVOS ESPECIFICOS:
 
 •	Realizar operaciones aritméticas con números complejos, tanto en su forma polar como rectangular.
 
