@@ -69,6 +69,12 @@ Analizar y desarrollar el informe de transformaiónn de números complejos de re
 
 4.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
+a) 
+
+![image](https://user-images.githubusercontent.com/105320981/186804041-14da53ea-f64a-4539-9be2-2ac5e484c26d.png)
+
+![image](https://user-images.githubusercontent.com/105320981/186804100-c5a7ad61-09ba-4504-b444-c8215e85b8ae.png)
+
 
 b)
 
@@ -77,18 +83,6 @@ b)
 ![image](https://user-images.githubusercontent.com/104863870/186803811-fad7c268-871d-43c0-b9ff-4e73dedfce49.png)
 
 ![image](https://user-images.githubusercontent.com/104863870/186803831-783bbe86-4881-4c5b-b6c5-10c0706dce1d.png)
-
-c)
-
-<img width="330" alt="image" src="https://user-images.githubusercontent.com/104999420/186803943-722f3bec-2e11-4ddc-82ab-6c224fbc2df2.png">
-
-<img width="421" alt="image" src="https://user-images.githubusercontent.com/104999420/186803960-bd61b35e-c94e-4163-95eb-d10999a186bf.png">
-
-<img width="324" alt="image" src="https://user-images.githubusercontent.com/104999420/186803984-ffb699f9-d420-4658-8109-47c23f9038bb.png">
-
-3.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
-
-<img width="805" alt="image" src="https://user-images.githubusercontent.com/104999420/186804051-4520877e-086d-4d2b-870d-2494f2f49b87.png">
 
 
 5. VIDEO
