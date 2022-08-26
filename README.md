@@ -21,26 +21,25 @@ LABORATORIO 9 FUNDAMENTOS DE CIRCUITOS
 FECHA
 26 de Agosto del 2022
  
-2.	OBJETIVO:
+## 2.	OBJETIVO:
 
-2.1	OBJETIVO GENERAL: 
+###2.1	OBJETIVO GENERAL: 
 
 Analizar y desarrollar el informe de transformaiónn de números complejos de rectangulares a polares y de polares a rectangulares, para la comprensión de los fundamentos en la electrónica mediante el uso de herramientas de investigación y realización de ejercicios.
 
-2.2	OBJETIVOS ESPECIFICOS:
-
+###2.2	OBJETIVOS ESPECIFICOS:
 
 •	Realizar operaciones aritméticas con números complejos, tanto en su forma polar como rectangular.
 
-
 •	Comprender las formulas correctas para transformar numeros complejos de rectangular a polar y viceversa
 
+## 3. MARCO TEÓRICO
 
-3. MARCO TEÓRICO
+![image](https://user-images.githubusercontent.com/105320981/186809059-13e41115-96ec-42f6-af53-a0bc0845417e.png)
 
+![image](https://user-images.githubusercontent.com/105320981/186808970-b4fd44c6-caf7-49ca-9f06-0266d1898522.png)
 
-
-4. PROCEDIMIENTO
+## 4. PROCEDIMIENTO
 
 4.5.1. Sin emplear calculadora. Transforme a su forma polar:
 
@@ -100,10 +99,20 @@ c)
 <img width="644" alt="image" src="https://user-images.githubusercontent.com/104999420/186804374-3ee69bba-7def-47dc-a249-4fc4408a1080.png">
 
 
-5. VIDEO
+## 5. CONCLUSIONES:
 
+•	Después de haber realizado el laboratorio, se llego a la conclusio nde que los calculos realizados a mano son diferentes a los realizados con la calculadora y por lo tanto se tiene que hacer una tabla donde marquen estas diferencias.
 
-6. CONCLUSIÓN
+•	La teoria de conversio nde forma rectangular a forma polar es una de las maneras mas utiles ára comprender como funciona los diagramas fasoriales y esto ayuda a entender tambien el voltaje entre otras cosas .
 
-7 BIBLIOGRAFÍA
+•	La resolucion de ejercicios aplicando la suma, resta , multiplicacion y division lleva de la mano con lso diragramas fasoriales ya que al ser este un problema y queremos encontrar en forma rectangular debemos tener en cuenta las operaciones basicas y con este las formulas que acompañan a estos calculos.
 
+## 6. RECOMENDACIONES:
+
+• Al momento de realizar los cálculos en la caluladora tener en cuenta que la calculadora este en sus estado normal no en radianes ya que cambia el valor de los calculos previamente realizados a mano y ocasionara confusiones a la hora de lso resultados. 
+
+• En los cálculos tener muy en cuenta la formula respectiva para determinar la incognita solicitada ya que se desean los cálculos aplicando ese método tomar en cuenta la interrogante que nos pide encontrar y realizar cálculos preciosos, los componentes de experimento tener en cuenta y revisarlos antes de ponerlos en usa controlar el voltaje de entrada y realizar el trabajo con las indicaciones correspondientes.
+
+## 7. BIBLIOGRAFÍA:
+
+-Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
