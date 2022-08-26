@@ -70,7 +70,12 @@ Analizar y desarrollar el informe de transformaiónn de números complejos de re
 4.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
 
+b)
+![image](https://user-images.githubusercontent.com/104863870/186803793-a7e85ef8-113a-4437-9ad6-a1fcf999adbf.png)
 
+![image](https://user-images.githubusercontent.com/104863870/186803811-fad7c268-871d-43c0-b9ff-4e73dedfce49.png)
+
+![image](https://user-images.githubusercontent.com/104863870/186803831-783bbe86-4881-4c5b-b6c5-10c0706dce1d.png)
 
 
 5. VIDEO
