@@ -41,7 +41,7 @@ Analizar y desarrollar el informe de transformaiónn de números complejos de re
 
 ![image](https://user-images.githubusercontent.com/104863870/186797720-be691f7c-54dd-4421-b7f4-7226c678f63f.png)
 
-![image](https://user-images.githubusercontent.com/104863870/186797784-b2b6e995-4127-4e7e-97a2-6fb7305dc2f6.png)
+![image](https://user-images.githubusercontent.com/104863870/186801365-bd8a4f83-f510-419c-9b2e-7b138329135f.png)
 
 ![image](https://user-images.githubusercontent.com/104863870/186797793-11128be5-19c7-4c77-b5a0-5e8f4ce52748.png)
 
