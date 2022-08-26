@@ -84,6 +84,18 @@ b)
 
 ![image](https://user-images.githubusercontent.com/104863870/186803831-783bbe86-4881-4c5b-b6c5-10c0706dce1d.png)
 
+c)
+
+<img width="386" alt="image" src="https://user-images.githubusercontent.com/104999420/186804251-6379db4b-2c12-4601-92dd-6c9b13f99234.png">
+
+<img width="507" alt="image" src="https://user-images.githubusercontent.com/104999420/186804297-ebcbe8f7-757b-4b04-baf5-5a2cdf604dee.png">
+
+<img width="335" alt="image" src="https://user-images.githubusercontent.com/104999420/186804321-d6df010e-7473-44dd-9b6c-29c9eba7c0f9.png">
+
+3.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.
+
+<img width="644" alt="image" src="https://user-images.githubusercontent.com/104999420/186804374-3ee69bba-7def-47dc-a249-4fc4408a1080.png">
+
 
 5. VIDEO
 
