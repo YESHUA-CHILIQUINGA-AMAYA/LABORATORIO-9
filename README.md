@@ -29,9 +29,12 @@ Analizar y desarrollar el informe de transformaiónn de números complejos de re
 
 2.2	OBJETIVOS ESPECIFICOS:
 
+
 •	Realizar operaciones aritméticas con números complejos, tanto en su forma polar como rectangular.
 
+
 •	Comprender las formulas correctas para transformar numeros complejos de rectangular a polar y viceversa
+
 
 3. MARCO TEÓRICO
 
