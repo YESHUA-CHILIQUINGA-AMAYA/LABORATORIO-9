@@ -33,4 +33,5 @@ Analizar y desarrollar el informe de transformaiónn de números complejos de re
 
 •	Comprender las formulas correctas para transformar numeros complejos de rectangular a polar y viceversa
 
+3. MARCO TEÓRICO
 
