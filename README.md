@@ -35,3 +35,15 @@ Analizar y desarrollar el informe de transformaiónn de números complejos de re
 
 3. MARCO TEÓRICO
 
+
+
+4. PROCEDIMIENTO
+
+
+5. VIDEO
+
+
+6. CONCLUSIÓN
+
+7 BIBLIOGRAFÍA
+
