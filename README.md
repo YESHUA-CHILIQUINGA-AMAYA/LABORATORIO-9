@@ -39,6 +39,8 @@ Analizar y desarrollar el informe de transformaiónn de números complejos de re
 
 4. PROCEDIMIENTO
 
+4.5.2 Sin emplear calculadora. Transforme a su forma rectangular:
+
 ![image](https://user-images.githubusercontent.com/104863870/186797720-be691f7c-54dd-4421-b7f4-7226c678f63f.png)
 
 ![image](https://user-images.githubusercontent.com/104863870/186801365-bd8a4f83-f510-419c-9b2e-7b138329135f.png)
